@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:csh_wpf_delegate_event"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <!-- Global resources (like styles and templates) -->
     </Application.Resources>
 </Application>
