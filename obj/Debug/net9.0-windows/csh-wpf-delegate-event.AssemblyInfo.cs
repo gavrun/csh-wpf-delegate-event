@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csh-wpf-delegate-event")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cd0af4d0d7ad1d54877c9a8069bb15ef3027396")]
 [assembly: System.Reflection.AssemblyProductAttribute("csh-wpf-delegate-event")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csh-wpf-delegate-event")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
